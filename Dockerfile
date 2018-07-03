@@ -16,7 +16,7 @@ RUN npm install
 COPY . .
 
 # expose the port from docker that will map to your local machines port while running the container
-EXPOSE 8080
+EXPOSE 3000
 
 # launch the app
 CMD [ "npm", "start" ]
