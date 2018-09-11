@@ -14,63 +14,63 @@ describe('Equality', function() {
         expect(num).to.be.eq(10);
     });
     
-describe('Equality', function() {
+describe('Test1', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
     
-    describe('Equality', function() {
+    describe('Test2', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-        describe('Equality', function() {
+        describe('Test3', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-            describe('Equality', function() {
+            describe('Test32', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-                describe('Equality', function() {
+                describe('Test35', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-                    describe('Equality', function() {
+                    describe('Test123', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-                        describe('Equality', function() {
+                        describe('Test12', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-describe('Equality', function() {
+describe('Equality12', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-                                describe('Equality', function() {
+                                describe('Equality45', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-                                    describe('Equality', function() {
+                                    describe('Equality1', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-                                        describe('Equality', function() {
+                                        describe('Equality452', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
 });
-                                            describe('Equality', function() {
+                                            describe('Equality234', function() {
 it('should be equal to 10', function() {
     var num = 10;
     expect(num).to.be.eq(10);
