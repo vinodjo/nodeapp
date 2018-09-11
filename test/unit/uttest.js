@@ -13,4 +13,67 @@ describe('Equality', function() {
         var num = 10;
         expect(num).to.be.eq(10);
     });
+    
+describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+    
+    describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+        describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+            describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+                describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+                    describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+                        describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+                                describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+                                    describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+                                        describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+                                            describe('Equality', function() {
+it('should be equal to 10', function() {
+    var num = 10;
+    expect(num).to.be.eq(10);
+});
+       
 });
